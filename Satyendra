@@ -18,4 +18,4 @@ int b;
   MyName mn;
   mn.Name(a);
 }
-}
+  } 
