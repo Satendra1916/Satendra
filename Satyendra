@@ -16,6 +16,7 @@ int b;
   Scanner sc=new Scanner(System.in);
   a=sc.nextInt();
   MyName mn;
+  System.out.println(" ");
   mn.Name(a);
 }
   } 
